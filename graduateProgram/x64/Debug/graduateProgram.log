@@ -1,0 +1,37 @@
+﻿  graduateProgram.cpp
+d:\worktool\zookeeper\zookeeper-3.4.6\src\c\include\zookeeper.h(24): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  IServices.cpp
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\iservices.cpp(5): error C2511: “bool IServices::createServices(void)”:“IServices”中没有找到重载的成员函数
+  e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\iservices.h(4): note: 参见“IServices”的声明
+  leaderElection.cpp
+d:\worktool\zookeeper\zookeeper-3.4.6\src\c\include\zookeeper.h(24): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  leaderElectionZk.cpp
+d:\worktool\zookeeper\zookeeper-3.4.6\src\c\include\zookeeper.h(24): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  socketInternal.cpp
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(9): error C2511: “bool socketInternal::createServices(void)”:“socketInternal”中没有找到重载的成员函数
+  e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.h(7): note: 参见“socketInternal”的声明
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(17): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(18): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(18): error C3867: “socketInternal::listenSocket”: 非标准语法；请使用 "&" 来创建指向成员的指针
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(29): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(32): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(35): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(38): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(50): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(53): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(53): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(54): error C2597: 对非静态成员“socketInternal::listenSocket”的非法引用
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\socketinternal.cpp(60): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 参见“inet_ntoa”的声明
+  node.cpp
+d:\worktool\zookeeper\zookeeper-3.4.6\src\c\include\zookeeper.h(24): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  resourceManager.cpp
+d:\worktool\zookeeper\zookeeper-3.4.6\src\c\include\zookeeper.h(24): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  windowsResourceAdapter.cpp
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\windowsresourceadapter.cpp(55): error C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+e:\我的学校的一些资料\课题设计\graduateprogram\graduateprogram\windowsresourceadapter.cpp(98): error C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+  zkAdapter.cpp
+d:\worktool\zookeeper\zookeeper-3.4.6\src\c\include\zookeeper.h(24): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+  正在生成代码...

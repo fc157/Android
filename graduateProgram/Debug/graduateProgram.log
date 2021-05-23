@@ -1,0 +1,29 @@
+﻿  node.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+e:\graduateprogram\zookeeper-3.4.6\src\c\include\winconfig.h(159): warning C4005: “NTDDI_VERSION”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\shared\sdkddkver.h(226): note: 参见“NTDDI_VERSION”的前一个定义
+e:\graduateprogram\zookeeper-3.4.6\src\c\include\winconfig.h(160): warning C4005: “_WIN32_WINNT”: 宏重定义
+  e:\vs2017\vistual studio ide\vc\tools\msvc\14.16.27023\atlmfc\include\afxv_w32.h(32): note: 参见“_WIN32_WINNT”的前一个定义
+e:\graduateprogram\zookeeper-3.4.6\src\c\include\winconfig.h(163): warning C4005: “WIN32_LEAN_AND_MEAN”: 宏重定义
+  e:\graduateprogram\graduateprogram\node.cpp: note: 参见“WIN32_LEAN_AND_MEAN”的前一个定义
+e:\graduateprogram\zookeeper-3.4.6\src\c\include\winconfig.h(187): warning C4005: “EWOULDBLOCK”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\errno.h(125): note: 参见“EWOULDBLOCK”的前一个定义
+e:\graduateprogram\zookeeper-3.4.6\src\c\include\winconfig.h(188): warning C4005: “EINPROGRESS”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\errno.h(97): note: 参见“EINPROGRESS”的前一个定义
+e:\graduateprogram\graduateprogram\node.cpp(96): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+e:\graduateprogram\graduateprogram\node.cpp(167): warning C4244: “参数”: 从“float”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+e:\graduateprogram\graduateprogram\node.cpp(171): warning C4244: “参数”: 从“unsigned long”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+e:\graduateprogram\graduateprogram\node.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+e:\graduateprogram\graduateprogram\node.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+e:\graduateprogram\graduateprogram\node.cpp(201): warning C4244: “=”: 从“float”转换到“unsigned long”，可能丢失数据
+e:\graduateprogram\graduateprogram\node.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+e:\graduateprogram\graduateprogram\node.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+  graduateProgram.vcxproj -> E:\graduateProgram\Debug\graduateProgram.exe
